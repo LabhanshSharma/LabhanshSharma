@@ -1,5 +1,5 @@
-<h1 align="center">👋 Welcome 👋 Labhansh Sharma to my Cybersecurity journey</h1>
-<h3 align="center">## About Me Hello there! I'm Labhansh Sharma, a passionate and enthusiastic cybersecurity trainee eager to learn and grow in the field of cybersecurity. As a fresher, I'm excited to embark on this journey of discovery, exploration, and skill-building in the ever-evolving landscape of cybersecurity.</h3>
+<h1 align="center">👋 Welcome !👋,   Labhansh Sharma to my Cybersecurity journey</h1>
+<h3 align="center"><h1>## About Me</h1> /br Hello there! I'm Labhansh Sharma, a passionate and enthusiastic cybersecurity trainee eager to learn and grow in the field of cybersecurity. As a fresher, I'm excited to embark on this journey of discovery, exploration, and skill-building in the ever-evolving landscape of cybersecurity.</h3>
 
 - 🌱 I’m currently learning **cybersecurity, Testing, Bug-bounty**
 
