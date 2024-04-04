@@ -1,11 +1,11 @@
 <h1 align="center">👋 Welcome !👋,  To Labhansh Sharma Cybersecurity journey</h1>
-<h3 align="center"><h1>About Me </h1> /br I am a cybersecurity trainee actively seeking opportunities to apply my skills and contribute to making the digital world safer. As a passionate and enthusiastic cybersecurity trainee eager to learn and securing digital assets and grow in the field of cybersecurity. As a fresher, I'm excited to embark on this journey of discovery, exploration, and skill-building in the ever-evolving field of cybersecurity.</h3>
+<h3 align="center"><h1>About Me </h1> I am a cybersecurity trainee actively seeking opportunities to apply my skills and contribute to making the digital world safer. As a passionate and enthusiastic cybersecurity trainee eager to learn and securing digital assets and grow in the field of cybersecurity. As a fresher, I'm excited to embark on this journey of discovery, exploration, and skill-building in the ever-evolving field of cybersecurity.</h3>
 
 ##
 - 🌱 Currently learning cybersecurity, testing, and bug bounty.
 - 📝 Occasionally write articles on [The Hack Report](https://thehackreport/author/luckysharma).
 - 📫 Reach me at labhanshsharma17@gmail.com or at +918349268895.
-- 📄 View my experiences [here](https://drive.google.com/file/d/1RTuRf2OLS-8tfkUudIFDCfOTtHsyOsNj/view?usp=drive_link).
+- 📄 View my experiences/resume [here](https://drive.google.com/file/d/1RTuRf2OLS-8tfkUudIFDCfOTtHsyOsNj/view?usp=drive_link).
 
 ## Skills
 - Cybersecurity principles
